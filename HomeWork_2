@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-//       Improved calculater Problem 0
+//       Problem 0 Improved calculater 
         Scanner sc = new Scanner(System.in);
         System.out.println("enter two numbers");
         double a = sc.nextDouble();
